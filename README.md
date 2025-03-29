@@ -113,11 +113,6 @@ Enter the size
 - **For Loop**: Handling iteration over rows and columns
 - **Printing Statements**: Managing console output formatting
 
-## Use Cases
-- Understanding nested loops.
-- Practicing pattern printing problems.
-- Strengthening knowledge of Java syntax.
-
 ## Conclusion
 This program demonstrates a simple number pattern using loops and user input. It is useful for beginners to understand **nested loops**, **input handling**, and **formatted output** in Java.
 
